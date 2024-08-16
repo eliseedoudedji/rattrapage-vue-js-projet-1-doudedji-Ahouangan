@@ -85,14 +85,14 @@ function sup() {
                   align-items: center;
                   margin-left: 150px;
                 "
-                >{{ profile.userName.slice(0, 1) }}</span
+                >{{ }}</span
               >
               <div class="py-2">
                 <h3 class="font-bold text-2xl text-white dark:text-white mb-1">
-                  {{ profile.userName }}
+                  {{ }}
                 </h3>
                 <div class="inline-flex text-white dark:text-gray-300 items-center">
-                  {{ profile.userMail }}
+                  {{ }}
                 </div>
               </div>
             </div>
